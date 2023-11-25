@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "homepage": "https://mrssm97.github.io/todo",
+  "homepage": "https://mrssm97.github.io/calculator",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
